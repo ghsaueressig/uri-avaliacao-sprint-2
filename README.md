@@ -22,4 +22,4 @@ Fique a vontade para criar uma resposta que mostre de forma simples ao usuário,
 **Antigo salário:** *R$0.000,00*,<br />
 **Novo salário:** *R$0.000,00*"<br />
 
-**PS:** Esse modelo de resposta deverá ser para cada usuário.
+**PS:** Esse modelo de resposta deverá ser para cada usuário. Caso não seja possível calcular o salário do usuário, informar isso e seguir ao próximo.
