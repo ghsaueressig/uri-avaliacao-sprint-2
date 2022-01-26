@@ -1,0 +1,174 @@
+[
+  {
+    "_id": 1,
+    "nome": "João Carlos",
+    "cargos": [
+      {
+        "nome": "Desenvolvedor Pleno",
+        "percentual": "5%",
+        "atual": true,
+        "salario": "$2.111,17",
+        "comecou_em": "2020-01-10T09:35:25.000Z"
+      },
+      {
+        "nome": "Desenvolvedor JR",
+        "percentual": "5%",
+        "atual": false,
+        "salario": "R$1.000,33",
+        "comecou_em": "2010-05-12T10:35:25.000Z"
+      }
+    ],
+    "admissao": "2010-05-12T10:35:25.000Z",
+    "demitido": false
+  },
+  {
+    "_id": 2,
+    "nome": "Antônio",
+    "cargos": [
+      {
+        "nome": "Gerente de Projetos",
+        "percentual": "15%",
+        "atual": true,
+        "salario": "R$8.275,49",
+        "comecou_em": "2019-03-07T15:00:25.000Z"
+      }
+    ],
+    "admissao": "2019-03-07T15:00:25.000Z",
+    "demitido": false
+  },
+  {
+    "_id": 2,
+    "nome": "Cristian",
+    "cargos": [
+      {
+        "nome": "Quality Assurance (QA)",
+        "percentual": "2%",
+        "salario": "R$3.047,12",
+        "atual": true,
+        "comecou_em": "2020-09-04T12:13:45.000Z"
+      }
+    ],
+    "admissao": "2020-09-04T12:13:45.000Z",
+    "demitido": true
+  },
+  {
+    "_id": 3,
+    "nome": "Maria Helena",
+    "cargos": [
+      {
+        "nome": "User Experience Designer",
+        "percentual": "13%",
+        "salario": "R$5.002,05",
+        "atual": true,
+        "comecou_em": "2020-12-04T16:14:00.000Z"
+      }
+    ],
+    "admissao": "2020-12-04T16:14:00.000Z",
+    "demitido": false
+  },
+  {
+    "_id": 4,
+    "nome": "Renata",
+    "cargos": [
+      {
+        "nome": "Desenvolvedor Pleno",
+        "percentual": "5%",
+        "salario": "R$2.111,17",
+        "atual": true,
+        "comecou_em": "2021-05-01T08:44:33.000Z"
+      }
+    ],
+    "admissao": "2021-05-01T08:44:33.000Z",
+    "demitido": false
+  },
+  {
+    "_id": 5,
+    "nome": "Paulo",
+    "cargos": [
+      {
+        "nome": "Analista de Sistemas",
+        "percentual": "9%",
+        "salario": "R$10.315,77",
+        "atual": true,
+        "comecou_em": "2022-01-07T10:15:54.000Z"
+      }
+    ],
+    "admissao": "2022-01-07T10:15:54.000Z",
+    "demitido": false
+  },
+  {
+    "_id": 6,
+    "nome": "Amanda",
+    "cargos": [
+      {
+        "nome": "Gerente de RH",
+        "percentual": "2%",
+        "salario": "R$1.315,71",
+        "atual": true,
+        "comecou_em": "2007-02-01T09:33:21.000Z"
+      }
+    ],
+    "admissao": "2007-02-01T09:33:21.000Z",
+    "demitido": true
+  },
+  {
+    "_id": 7,
+    "nome": "Patrícia",
+    "cargos": [
+      {
+        "nome": "Gestão de Pessoas (RH)",
+        "percentual": "28%",
+        "salario": "R$5.015,01",
+        "atual": true,
+        "comecou_em": "2017-02-05T12:04:00.000Z"
+      }
+    ],
+    "admissao": "2017-02-05T12:04:00.000Z",
+    "demitido": false
+  },
+  {
+    "_id": 8,
+    "nome": "Maurício",
+    "cargos": [
+      {
+        "nome": "Desenvolvedor Sênior",
+        "percentual": "5%",
+        "salario": "R$5.015,01",
+        "atual": true,
+        "comecou_em": "2018-11-30T17:04:00.000Z"
+      }
+    ],
+    "admissao": "2018-11-30T17:04:00.000Z",
+    "demitido": false
+  },
+  {
+    "_id": 9,
+    "nome": "André",
+    "cargos": [
+      {
+        "nome": "Desenvolvedor JR",
+        "percentual": "5%",
+        "salario": "R$1.000,33",
+        "atual": true,
+        "comecou_em": "2019-12-15T13:20:25.000Z"
+      }
+    ],
+    "admissao": "2019-12-15T13:20:25.000Z",
+    "demitido": false
+  },
+  {
+    "_id": 10,
+    "nome": "Amauri",
+    "cargos": [
+      {
+        "nome": "Desenvolvedor JR",
+        "percentual": "5%",
+        "salario": "R$1.000,33",
+        "comecou_em": "2020-06-22T14:10:01.000Z",
+        "atual": true
+      }
+    ],
+    "admissao": "2020-06-22T14:10:01.000Z",
+    "demitido": false
+  }
+]
